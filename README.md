@@ -58,12 +58,12 @@ fastapi-mongo-crud/
 └── venv/
 
 
-#👨‍💻 Author
+# 👨‍💻 Author
 
 Shoaib Ahmed
 
 
-#📜 License
+# 📜 License
 
 This project is for learning and educational purposes.
 
