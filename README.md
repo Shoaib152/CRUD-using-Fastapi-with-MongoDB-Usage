@@ -13,6 +13,7 @@ It allows users to perform basic database operations using REST API endpoints.
 - MongoDB database integration  
 - Environment variable security using `.env`
 
+- 
 ## 🛠️ Technologies Used
 - Python  
 - FastAPI  
@@ -22,13 +23,13 @@ It allows users to perform basic database operations using REST API endpoints.
 - Uvicorn  
 - dotenv
 
+
 ## 📦 Installation
 
 ### Clone Repository
 ```bash
 git clone YOUR_REPOSITORY_LINK
 cd fastapi-mongo-crud
-
 ### Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate
@@ -55,12 +56,15 @@ fastapi-mongo-crud/
 ├── .env
 └── venv/
 
+
 #👨‍💻 Author
 
 Shoaib Ahmed
 
+
 #📜 License
 
 This project is for learning and educational purposes.
+
 
 ⭐ If you like this project, please give a star on GitHub.
