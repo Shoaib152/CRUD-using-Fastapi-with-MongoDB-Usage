@@ -26,10 +26,11 @@ It allows users to perform basic database operations using REST API endpoints.
 
 ## 📦 Installation
 
-### Clone Repository
+## Clone Repository
 ```bash
 git clone YOUR_REPOSITORY_LINK
 cd fastapi-mongo-crud
+
 ### Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate
